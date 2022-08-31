@@ -15,7 +15,9 @@
         <palavra-chave>Amigo</palavra-chave>
     </dog>
     <dog>
-        
+        <raca>Fila brasileiro</raca>
+        <descricao>Quem conviveu com um cachorro da raça fila brasileiro jamais vai esquecê-lo. Bastante comum na infância de muitos brasileiros, o fila brasileiro marca seu espaço por onde passa com seu jeito calmo e senso de proteção aguçado. Muito companheira, leal e imponente, a raça até hoje atrai uma legião imensa de fãs e se tornou uma celebridade do mundo canino.</descricao>
+        <palavra-chave>Amigo</palavra-chave>
         <foto>img/fala-que-eu-nao-to.jpg</foto>
         
     </dog>
